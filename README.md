@@ -40,7 +40,6 @@ Run the script from your terminal, passing the target URL as an argument:
 
 ```bash
 python <script_name>.py
-```
 
 Replace `<script_name>` with the actual script filename if different. The script will output a summary and a suggested X post based on the webpage content.
 
